@@ -1,2 +1,5 @@
-mylogs.log
+/mylogs.log
 my.log
+log.log
+/*.log
+*.log
