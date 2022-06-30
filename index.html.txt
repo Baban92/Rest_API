@@ -1,15 +1,15 @@
-<html dir="ltr" lang="en" class="offline"><head>
+git <html dir="ltr" lang="en" class="offline"><head>
   <meta charset="utf-8">
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#fff">
   <meta name="viewport" content="width=device-width, initial-scale=1.0,
-                                 maximum-scale=1.0, user-scalable=no">
+                              git    maximum-scale=1.0, user-scalable=no">
   <title>www.google.com</title>
   <style>/* Copyright 2017 The Chromium Authors. All rights reserved.
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
-a {Feature
+a {
   color: var(--link-color);
 }
 2223.git
